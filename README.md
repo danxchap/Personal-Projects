@@ -12,4 +12,4 @@
 ### Python outlier detection project which includes:
 - data analysis
 - implementation of outlier detection algorithm from scientific reasearch paper
-- answers the questions "What characteristics of a diabetic are considered anomalous?"
+- answers to the question "What characteristics of a diabetic are considered anomalous?"
