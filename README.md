@@ -1,6 +1,6 @@
 # Personal-Projects
 
-## <a href = "[https://github.com/danxchap/Personal-Projects/blob/master/Outlier%20Detection%20for%20Diabetes.ipynb](https://github.com/danxchap/Personal-Projects/tree/master/Outlier%20Detection%20for%20Diabetes)">Outlier Detection for Diabetes (Python)</a>
+## <a href = "https://github.com/danxchap/Personal-Projects/tree/master/Outlier%20Detection%20for%20Diabetes"> Outlier Detection for Diabetes (Python)</a>
 ### Python outlier detection project which includes:
 - data analysis
 - implementation of outlier detection algorithm from scientific reasearch paper
